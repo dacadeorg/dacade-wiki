@@ -42,6 +42,9 @@ You can add your ideas here: https://trello.com/b/ZAELuaFY/dacade-improvement-pr
 ### How does dacade make money?
 Currently, we offer optional, additional services to blockchain projects on dacade and charge for these like the creation of educational content, evaluation of feedback and submissions and payment handling. 
 
+### Who can create learning communities on dacade?
+Currently, the learning communities are created by the dacade team in cooperation with other projects, like aeternity, for example. We do this now to ensure quality. But we hope to open community creation soon so that everybody can create a learning community. Community creators will also have the possibility to earn something for their efforts.
+
 ### Is dacade a part of aeternity?
 No, we are an independent platform. We are currently in talks with other blockchain projects to create new learning communities on dacade with them. We want to offer as many options as possible for blockchain interested developers. That said, we really like the aeternity protocol and dev tools.
 
