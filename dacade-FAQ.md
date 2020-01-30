@@ -3,6 +3,9 @@
 ### How do I get started?
 Go to [dacade.org](https://dacade.org). Register with an email and password. Choose a learning community. The “Introduction to the Blockchain” learning community is a good place to start learning about blockchain technology.
 
+This video explains in 90 sec the basic concepts of dacade, [Dacade explained with emojis](https://www.youtube.com/watch?v=w5Lru6t2O4s).
+In this 90-sec video, we are going to walk you through dacade, [Dacade Walkthrough](https://www.youtube.com/watch?v=3eRRGCceoaA).
+
 ### How can I earn money for learning?
 On dacade, some communities offer cryptocurrencies as rewards. Learners can earn rewards for solving challenges in a, particularly successful way. Learns can also earn rewards for giving valuable feedback on the submissions of their peers.
 
