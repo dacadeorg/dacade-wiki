@@ -33,8 +33,13 @@ Blockchain projects who want to encourage developers to try out their technology
 ### What does dacade stand for?
 Decentralized academy.
 
-### Has dacade its own token?
-Not yet, but we are planning to create one soon. Stay tuned 🛰.
+### What are dacade coins?
+Dacade coins are the native currency used on dacade. 
+With dacade coins, we want to create an educational economy on dacade. Thus educational interactions can be traded.
+
+Currently, you can earn dacade coins for making successful submissions, giving feedback or contributing to dacade.
+
+We will soon add methods to spend dacade coins, for example, to pay for tutorials or reviews. At the moment we are still experimenting with them and want to develop the currency further with the community.
 
 ### How can I propose a new feature for dacade?
 You can add your ideas here: https://trello.com/b/ZAELuaFY/dacade-improvement-proposals.
